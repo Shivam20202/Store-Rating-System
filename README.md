@@ -101,7 +101,7 @@ The frontend runs on `http://localhost:5173`.
 
 ### 4. Default Admin Login
 
-- Email: `shivamm@test.com`
+- Email: `shivam@admin.com`
 - Password: `Shivam@@`
 
 ## Environment Variables
